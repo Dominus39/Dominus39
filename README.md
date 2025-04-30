@@ -31,7 +31,7 @@ I'm a **Backend Developer** who loves crafting scalable and efficient backend sy
 
 📫 **Reach Me At**  
 - **Email**: yugoalexander@gmail.com  
-- **LinkedIn**: [www.linkedin.com/in/yugoalexander](#) 
+**LinkedIn**: [Connect on LinkedIn](www.linkedin.com/in/yugoalexander)
 
 ## 🛠 Featured Skills
 
